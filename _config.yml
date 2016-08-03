@@ -6,9 +6,9 @@ color:
   saturation: 0.6527701020240784
   rhythmicContrast: 0.429691364755854
   brandColors:
-    - '#004358'
-    - '#1F8A70'
-    - '#BEDB39'
-    - '#FFE11A'
-    - '#FD7400'
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
 name: continuous breakup
