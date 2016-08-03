@@ -1,0 +1,14 @@
+layout_spectrum: 0.040870007360354066
+typography_spectrum: 0.7860982408747077
+color:
+  brandStrength: 0.16049363161437213
+  lightness: 0.8860125592909753
+  saturation: 0.6527701020240784
+  rhythmicContrast: 0.429691364755854
+  brandColors:
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
+name: continuous breakup
